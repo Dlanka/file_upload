@@ -1,0 +1,10 @@
+.file-upload {
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+    border:2px solid rgba(0, 0, 0, 0.11);
+}
+
+.file-upload.file-drag-over {
+    border-color: #16c4ff;
+}
